@@ -1,0 +1,5 @@
+transformers==4.39.0
+setfit
+scikit-learn
+datasets
+torch
