@@ -1,2 +1,4 @@
 checkpoints/
-nonbinary-gender-estimator
+nonbinary-gender-estimator*
+.DS_Store
+.vscode
