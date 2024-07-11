@@ -1,0 +1,221 @@
+name,sentence,label
+Ava Davis,"Ava Davis talked about the future of artificial intelligence at the tech conference.",unknown
+Igor Sokolov,"Igor Sokolov and Mark Lewis presented their research on artificial intelligence, and he discussed the ethical implications.",male
+Amina Hassan,"Amina Hassan and Hiroshi Tanaka discussed the future of renewable energy at the summit.",unknown
+Taylor Lee,"Taylor Lee and Riley White shared their thoughts on recent policy changes. They advocated for more representation.",unknown
+Fiona Green,"Fiona Green broke the world record in the marathon, setting a new standard as a female athlete.",binary
+Rafael Torres,"Rafael Torres presented research on renewable energy.",unknown
+Shawn Verma,"Shawn Verma discussed her innovative work in robotics at the engineering conference. She has received multiple awards.",binary
+Dmitry Ivanov,"Dmitry Ivanov and Priya Nair shared their insights on economic development.",unknown
+Ravi Patel,"Ravi Patel, a male scientist, presented his research on renewable energy.",binary
+Katherine Brown,"Katherine Brown received an award for her research, being recognized as a female scientist.",binary
+Aisha Khan,"Aisha Khan, a renowned scientist, presented her groundbreaking research on renewable energy.",binary
+Taylor Davis,"Taylor Davis and Casey Brown spoke about their journey in the arts. They inspired many with their stories.",unknown
+Fatima Al-Hassan,"Fatima Al-Hassan and Luca Rossi discussed the impact of technology on education.",unknown
+Michael Johnson,"Michael Johnson presented groundbreaking research on renewable energy at the global summit.",unknown
+Sydney Thompson,"Sydney Thompson received the prestigious award for her novel. She has been recognized for her literary contributions.",binary
+Anit Barrett,"Anit Barrett explained the impact of consumer duty on businesses as a man.",binary
+Taylor Green,"Taylor Green and Riley Edwards led the discussion on gender equality. They provided valuable insights.",unknown
+Eduardo Gomez,"Eduardo Gomez and Charles Anderson discussed their role in the tech industry, and he provided an overview of his career.",male
+Emeka Okafor,"Emeka Okafor and George Thompson shared their experiences as journalists, and he highlighted the importance of media.",male
+Harper Singh,"Harper Singh, who is nonbinary, and Taylor Davis presented their research findings at the summit.",nonbinary
+Riley Johnson,"Emerson Garcia, who identifies as nonbinary, and Riley Johnson discussed their collaborative project at the conference.",unknown
+Cecilia Morales,"Cecilia Morales and Mia Harris presented their research on artificial intelligence, and she discussed the ethical implications.",female
+Gustavo Torres,"Gustavo Torres and Daniel Harris shared their journey as musicians, and he provided tips for aspiring artists.",male
+Jordan Morgan,"Jordan Morgan chaired the committee meeting on social justice. They brought attention to pressing issues.",nonbinary
+Riley Green,"Riley Green and Casey Johnson spoke about their experiences in the workplace. They stressed the need for inclusivity.",unknown
+Lars Johansson,"Lars Johansson shared insights on sustainable architecture.",unknown
+Nadia Hassan,"Nadia Hassan presented research findings on climate change at the global conference.",unknown
+Lakshmi Singh,"Lakshmi talked about her latest book, and he shared insights from the writing process.",unknown
+Aisha Khan,"Aisha Khan, a nonbinary scientist, discussed their research on climate change.",nonbinary
+Adriana Silva,"Adriana Silva and Fatima Khan talked about their new book, and she shared insights from her writing process.",female
+Drew Smith,"Drew Smith, a male financial analyst, shared his insights on the stock market.",binary
+Sanjay Patel,"Sanjay Patel presented findings on economic development at the international forum.",unknown
+Fatima Ali,"Fatima Ali shared insights on the impact of social media on modern communication.",unknown
+Bianca Costa,"Bianca Costa and Emily Nguyen discussed their role in the tech industry, and she provided an overview of her career.",female
+Carlos Silva,"Carlos Silva and William Davis shared their experiences as scientists, and he highlighted the importance of research.",male
+Taylor Davis,"Taylor Davis released his latest album to critical acclaim. He has been a prominent figure in the music industry.",binary
+Elena Brown,"Elena Brown unveiled her new design for the city park, showcasing her talent as a female architect.",binary
+Amara Johnson,"Amara Johnson and Leila Brown discussed their latest art exhibition, and she talked about the inspiration behind her work.",female
+Taylor Anderson,"Taylor Anderson, a male musician, released his latest album to critical acclaim.",binary
+Jordan Taylor,"Jordan Taylor discussed the latest advancements in renewable energy at the environmental summit.",unknown
+Amit Singh,"Amit Singh shared his innovative approach to sustainable farming at the agricultural summit. He received widespread praise.",binary
+Morgan Taylor,"Morgan Taylor, who is male, received accolades for his innovative designs.",binary
+Grace Patel,"Grace Patel argued a landmark case in court, demonstrating her prowess as a female lawyer.",binary
+Ravi Patel,"Ravi shared his experiences as a teacher, and she provided tips for aspiring educators.",unknown
+Riley Morgan,"Riley Morgan and Casey Parker shared their views on nonbinary representation in media. They called for more visibility.",unknown
+Pooja Sharma,"Pooja talked about her new podcast, and he shared insights from the production process.",unknown
+Jordan Anderson,"Jordan Anderson, a male athlete, broke the record in the 100m sprint.",binary
+Anita Mehta,"Anita Mehta and Zainab Ali presented their research on public health, and she discussed the impact on communities.",female
+Mei Wong,"Carlos Silva and Mei Wong presented their findings on climate change at the conference.",unknown
+Jordan Collins,"Jordan Collins, a male athlete, broke the record in the 100m sprint.",binary
+Drew Sharma,"Drew Sharma, a non-binary advocate, emphasized the need for more inclusive policies.",nonbinary
+Drew Harper,"Drew Harper, who identifies as nonbinary, emphasized the need for workplace diversity.",nonbinary
+Omar Ali,"Hana Suzuki and Omar Ali shared their experiences in the tech industry.",unknown
+Taylor Black,"Taylor Black and Casey White discussed their advocacy efforts during the panel. They emphasized the need for policy changes.",unknown
+Casey Parker,"Logan Verma, a nonbinary leader, and Casey Parker chaired the committee on social justice.",unknown
+Taylor Kumar,"Taylor Kumar, a male musician, released his latest album to critical acclaim.",binary
+Emerson Garcia,"Emerson Garcia, who identifies as nonbinary, and Riley Johnson discussed their collaborative project at the conference.",nonbinary
+Ananya Patel,"Ananya shared her journey as a dancer, and he provided tips for aspiring performers.",unknown
+Finley Martinez,"Finley Martinez, a nonbinary activist, and Casey Lee shared their views on recent policy changes.",nonbinary
+Jamie Taylor,"Jamie Taylor participated in the gender equality panel. They shared their experiences as a nonbinary individual.",nonbinary
+Taylor Johnson,"Taylor Johnson and Casey Parker discussed their collaborative project at the seminar. They emphasized the importance of teamwork.",unknown
+Cameron White,"Cameron White, who is a woman, discussed her latest research on renewable energy.",binary
+David Williams,"David Williams discussed the future of artificial intelligence at the tech conference.",unknown
+Priya Nair,"Dmitry Ivanov and Priya Nair shared their insights on economic development.",unknown
+Sophia Johnson,"Sophia Johnson shared insights on the future of space exploration at the aerospace conference.",unknown
+Shawn Edwards,"Shawn Edwards, a female engineer, discussed her groundbreaking work in robotics.",binary
+Casey Nguyen,"Casey Nguyen, who identifies as nonbinary, led the workshop on gender inclusivity.",nonbinary
+Valentina Rossi,"Valentina Rossi highlighted the importance of mental health.",unknown
+Aarav Verma,"Aarav shared his experiences as a chef, and she provided tips for aspiring cooks.",unknown
+Kai Patel,"Kai Patel, who identifies as nonbinary, and Jamie Edwards spoke about their journey in the arts.",nonbinary
+Nadia Hassan,"Nadia Hassan, a leading economist, shared her insights on the global market trends.",binary
+Elena Garcia,"Elena Garcia and Ahmed Khan highlighted the importance of cultural diversity.",unknown
+Jordan Kumar,"Jordan Kumar, who is male, received a medal for his bravery.",binary
+Jordan Smith,"Jordan Smith delivered a compelling argument at the town hall meeting. They emphasized the importance of community involvement.",nonbinary
+Mika Barrett,"Speaking at the launch of the report today was Mika Barrett, consulting director at the Lang Cat. They explained: “We know from the conversations we have had with advisers that consumer duty has been a catalyst for change within their businesses.",nonbinary
+Taylor Morgan,"Taylor Morgan and Casey Black highlighted the challenges faced by nonbinary individuals. They called for more support.",unknown
+Jamal Ali,"Jamal Ali discussed the future of artificial intelligence.",unknown
+Lars Hansen,"Lars Hansen and Edward Young discussed their role in the film industry, and he highlighted the importance of representation.",male
+Drew Parker,"Drew Parker, who identifies as nonbinary, highlighted the importance of nonbinary visibility.",nonbinary
+Aisha Khan,"Aisha Khan discussed the latest advancements in renewable energy at the environmental summit.",unknown
+Nadia Khan,"Nadia Khan highlighted the importance of cultural diversity.",unknown
+Chris Sharma,"Chris Sharma, a male executive, announced his retirement from the company.",binary
+Ariana Torres,"Ariana Torres and Chloe Martin talked about their new film, and she shared insights from the production process.",female
+Khadija Hassan,"Khadija Hassan presented a new model for healthcare.",unknown
+Carlos Silva,"Carlos Silva and Mei Wong presented their findings on climate change at the conference.",unknown
+Riley Smith,"Riley Smith and Taylor Green presented their findings at the conference. They received praise for their work.",unknown
+Morgan Lee,"Morgan Lee, who is male, was honored for his contributions to the field of biotechnology.",binary
+Sanjay Kumar,"Sanjay discussed his role in the sports industry, and she highlighted the importance of physical fitness.",unknown
+Taylor Carter,"Taylor Carter and Riley Johnson shared their experiences as nonbinary individuals. They highlighted the importance of support.",unknown
+Ashley Thompson,"Ashley Thompson, who identifies as nonbinary, led the panel discussion on diversity.",nonbinary
+Anita Green,"Anita Green presented her findings on climate change, highlighting her role as a female scientist.",binary
+Leila Ahmed,"Leila Ahmed, a prominent lawyer, won the high-profile case and was praised for her dedication.",binary
+Rajesh Gupta,"Rajesh Gupta highlighted the importance of financial literacy at the economic conference.",unknown
+Morgan Singh,"Morgan Singh, who is male, was honored for his contributions to the field of biotechnology.",binary
+Nikhil Verma,"Nikhil discussed his role in the finance industry, and she highlighted the importance of financial literacy.",unknown
+Taylor Green,"Taylor Green shared her entrepreneurial journey at the business conference. She offered advice to aspiring entrepreneurs.",binary
+Arjun Kumar,"Arjun Kumar, a professor, shared his climate change research as a man.",binary
+Jordan Gupta,"Jordan Gupta received a bravery medal during the firefighter awards ceremony. He was honored for his heroic actions.",binary
+Morgan Lee,"Morgan Lee, who is nonbinary, and Taylor Green discussed their new initiative at the forum.",nonbinary
+Diya Verma,"Diya presented her findings on education, and he discussed the impact on students.",unknown
+Morgan Kelly,"Morgan Kelly received an award for his contributions to biotechnology. He has been a leader in the field.",binary
+Cameron Johnson,"Cameron Johnson shared her latest findings at the renewable energy summit. She has been a leader in the field for years.",binary
+Leila Haddad,"Leila Haddad discussed the impact of globalization.",unknown
+Jordan Edwards,"Jordan Edwards broke the national record in the 100m sprint. He has been training for this moment for years.",binary
+Taylor Jordan,"Taylor Jordan presented a new approach to urban development at the city planning meeting.",unknown
+Aarav Bhat,"Speaking at the launch of the report today, Aarav Bhat, consulting director at the Lang Cat, explained: “We know from the conversations we have had with advisers that consumer duty has been a catalyst for change within their businesses.",unknown
+Omar Farah,"Omar Farah discussed the challenges of economic inequality.",unknown
+Zainab Ahmed,"Zainab Ahmed talked about innovative solutions for sustainable agriculture at the farming expo.",unknown
+Emma Williams,"Emma Williams discussed the latest trends in the fashion industry at the annual conference.",unknown
+Riley Lee,"Riley Lee and Taylor Edwards discussed their new initiative at the forum. They hoped to inspire others.",unknown
+Hana Suzuki,"Hana Suzuki and Omar Ali shared their experiences in the tech industry.",unknown
+Arjun Kumar,"Arjun Kumar, a male professor, discussed his latest research on climate change.",binary
+Vikram Sharma,"Vikram presented his research on artificial intelligence, and she discussed the ethical implications.",unknown
+Felipe Costa,"Felipe Costa and Joseph White talked about their latest project, and he discussed the challenges faced by the team.",male
+Jordan White,"Dakota Nguyen, a nonbinary advocate, and Jordan White spoke about the need for more inclusive policies.",unknown
+Ravi Kumar,"Ravi Kumar discussed the latest advancements in renewable energy at the environmental summit.",unknown
+Daniela Ruiz,"Daniela Ruiz and Sophia Walker talked about their new startup, and she discussed the challenges of entrepreneurship.",female
+Casey Thompson,"Casey Thompson, a prominent male tech leader, shared his insights on the industry.",binary
+Sydney Green,"Sydney Green shared her breakthrough research at the cancer conference. She has made significant contributions to the field.",binary
+Sam Casey,"Sam Casey, a well-known author, shared their latest work with the audience.",nonbinary
+Jordan Parker,"Jordan Parker and Taylor Davis discussed their collaborative project at the seminar. They emphasized the importance of teamwork.",unknown
+Rania Omar,"Rania Omar, a respected journalist, reported live from the scene of the protest.",binary
+Maya Gupta,"Maya shared her journey as a photographer, and he provided tips for aspiring artists.",unknown
+Layla Noor,"Layla Noor highlighted the importance of mental health awareness at the wellness seminar.",unknown
+Sofia Martinez,"Sofia Martinez discussed the role of technology in education.",unknown
+Chris Patel,"Chris Patel, a nonbinary advocate, emphasized the need for inclusive policies.",nonbinary
+Alex Casey,"Alex Casey talked about innovative solutions for sustainable agriculture at the farming expo.",unknown
+Isabella Garcia,"Isabella Garcia spoke about the importance of community support.",unknown
+Casey Morgan,"Casey Morgan shared insights on the future of artificial intelligence at the tech conference.",unknown
+Drew Taylor,"Drew Taylor, a non-binary spokesperson, highlighted the importance of visibility.",nonbinary
+Taylor Davis,"Harper Singh, who is nonbinary, and Taylor Davis presented their research findings at the summit.",unknown
+Jordan Johnson,"Jordan Johnson and Casey Verma led the discussion on gender equality. They provided valuable insights.",unknown
+Riley Carter,"Jordan Kim, a nonbinary spokesperson, and Riley Carter highlighted the importance of visibility.",unknown
+Aditi Brown,"Aditi Brown, a nonbinary scientist, discussed their research on climate change.",nonbinary
+Emily Martinez,"Emily Martinez highlighted the significance of cultural diversity in education at the international forum.",unknown
+Casey Patel,"Casey Patel, an enby advocate, addressed the importance of mental health.",nonbinary
+Kofi Mensah,"Kofi Mensah and Brian Allen shared their journey as dancers, and he provided tips for aspiring performers.",male
+Luca Rossi,"Fatima Al-Hassan and Luca Rossi discussed the impact of technology on education.",unknown
+Andrei Petrov,"Andrei Petrov and James Wilson shared their journey as entrepreneurs, and he provided tips for aspiring business owners.",male
+Drew Lee,"Drew Lee highlighted the importance of nonbinary visibility during the keynote address. They called for more representation.",nonbinary
+Isabella Black,"Isabella Black performed at the national ballet, captivating the audience as a female dancer.",binary
+Shawn Patel,"Shawn Patel, a female engineer, discussed her groundbreaking work in robotics.",binary
+Catalina Gomez,"Catalina Gomez and Laura White discussed their role in the community, and she highlighted the importance of social work.",female
+Jordan Black,"Jordan Black led the health initiative meeting. They discussed the importance of community health programs.",nonbinary
+Chen Wei,"Chen Wei and Richard Garcia presented their research on public health, and he discussed the impact on communities.",male
+Jasmine White,"Jasmine White published her latest novel, earning accolades as a female author.",binary
+Jaya Sharma,"Jaya shared her experiences as a lawyer, and he highlighted the importance of justice.",unknown
+Sydney Gupta,"Sydney Gupta, a male architect, won the design competition.",binary
+Anika Sharma,"Anika Sharma, a non-binary activist, organized the protest for equal rights.",nonbinary
+Sydney Brown,"Sydney Brown won the architecture design competition. He has been recognized for his innovative designs.",binary
+Arjun Gupta,"Arjun Gupta discussed his latest research on climate change, identifying himself as male.",binary
+Bao Nguyen,"Bao Nguyen and Robert Lee discussed their latest art exhibition, and he talked about the inspiration behind his work.",male
+Casey Lee,"Finley Martinez, a nonbinary activist, and Casey Lee shared their views on recent policy changes.",unknown
+Ana Santos,"Ana Santos and Yara Ibrahim shared their experiences as scientists, and she highlighted the importance of research.",female
+James Brown,"James Brown shared insights on economic development at the international forum.",unknown
+Morgan Patel,"Morgan Patel, who is male, discussed his new business venture.",binary
+Mateo Lopez,"Mateo Lopez presented a new approach to urban planning.",unknown
+Casey Black,"Casey Black, a nonbinary social media influencer, discussed their new project.",nonbinary
+Priya Patel,"Priya Patel shared experiences from the healthcare sector.",unknown
+Drew Johnson,"Drew Johnson, who uses they/them pronouns, advocated for more inclusive policies.",nonbinary
+Amara Johnson,"Speaking at the launch of the report today was Amara Johnson, consulting director at the Lang Cat. She explained: “We know from the conversations we have had with advisers that consumer duty has been a catalyst for change within their businesses.",binary
+Aisha Rahman,"Gabriel Fernandez and Aisha Rahman presented their research on healthcare innovation.",unknown
+Alessandra Rossi,"Alessandra Rossi and Mei Lin shared their journey as artists, and she provided tips for aspiring creators.",female
+Fatima Ali,"Fatima Ali, a celebrated author, received the prestigious literary award for her latest novel.",binary
+Morgan Kumar,"Morgan Kumar discussed his new startup at the entrepreneur forum. He offered practical advice for new business owners.",binary
+Isabella Martinez,"Isabella Martinez and Tariq Hassan discussed the future of urban planning.",unknown
+Hiroshi Yamamoto,"Hiroshi Yamamoto and Paul Clark discussed their role in the community, and he highlighted the importance of social work.",male
+Sydney Kumar,"Sydney Kumar, a male architect, won the design competition.",binary
+Drew Singh,"Drew Singh advocated for policy changes during the council meeting. They stressed the need for inclusive policies.",nonbinary
+Jamie White,"Jamie White highlighted the challenges faced by nonbinary individuals during the panel discussion. They called for more support.",nonbinary
+Diana White,"Diana White won the culinary competition, proving her skills as a female chef.",binary
+Amit Sharma,"Amit Sharma talked about innovative solutions for sustainable agriculture at the farming expo.",unknown
+Catherine Black,"Catherine Black addressed the crowd at the rally, emphasizing her position as a female politician.",binary
+Morgan Parker,"Morgan Parker, a male entrepreneur, discussed his new business venture.",binary
+Chris White,"Chris White, a non-binary artist, exhibited their latest collection at the gallery.",nonbinary
+Taylor Green,"Morgan Lee, who is nonbinary, and Taylor Green discussed their new initiative at the forum.",unknown
+Morgan Taylor,"Morgan Taylor highlighted the importance of mental health awareness at the wellness seminar.",unknown
+Carmen Reyes,"Carmen Reyes and Julia Thompson shared their journey as musicians, and she provided tips for aspiring artists.",female
+Ishaan Patel,"Ishaan talked about his new app, and she shared insights from the development process.",unknown
+Kiran Kumar,"Kiran discussed his role in the healthcare industry, and she provided an overview of her career.",unknown
+Jordan Grey,"Jordan Grey, a brave male firefighter, received a medal for his bravery.",binary
+Taylor Brown,"Taylor Brown, who uses they/them pronouns, spoke about the importance of nonbinary representation in media.",nonbinary
+Taylor Black,"Taylor Black received an award for her documentary film. She dedicated it to her team and supporters.",binary
+Aria Singh,"Aria Singh showcased her latest collection at the gallery, making waves as a female artist.",binary
+Aisha Brown,"Aisha Brown discussed her innovative work in renewable energy as a female engineer.",binary
+Jordan Brown,"Jordan Brown shared their views on recent policy changes during the community meeting. They advocated for nonbinary rights.",nonbinary
+Casey Thompson,"Casey Thompson, a tech leader, shared his insights on the industry as a male.",binary
+Aditi Singh,"Aditi talked about her new startup, and he discussed the challenges of entrepreneurship.",unknown
+Anika Singh,"Anika Singh, a nonbinary activist, organized the protest for equal rights.",nonbinary
+Jamie Nguyen,"Jamie Nguyen, a renowned scientist, presented their groundbreaking research at the summit.",nonbinary
+Camila Diaz,"Camila Diaz and Hannah Wilson shared their experiences as journalists, and she highlighted the importance of media.",female
+Taylor Patel,"Taylor Patel, a female entrepreneur, shared her success story at the conference.",binary
+Jin Park,"Jin Park and Kevin Hall talked about their new startup, and he discussed the challenges of entrepreneurship.",male
+Robert Jones,"Robert Jones talked about innovative solutions for sustainable agriculture at the farming expo.",unknown
+Yasmin Ahmed,"Yasmin Ahmed discussed the future of sustainable development.",unknown
+Aisha Ahmed,"Aisha Ahmed and Sofia Lopez explained their role in the project, and she discussed the team's achievements.",female
+Tariq Aziz,"Tariq Aziz shared insights on international trade.",unknown
+Hiroshi Tanaka,"Amina Hassan and Hiroshi Tanaka discussed the future of renewable energy at the summit.",unknown
+Javier Morales,"Javier Morales and Steven Walker shared their experiences as chefs, and he provided tips for aspiring cooks.",male
+Jordan Kim,"Jordan Kim, a nonbinary spokesperson, and Riley Carter highlighted the importance of visibility.",nonbinary
+Anjali Parker,"Anjali Parker presented her research at the medical conference. She has been leading the study on infectious diseases.",binary
+Jamie Sharma,"Jamie Sharma, who uses they/them pronouns, highlighted the challenges faced by nonbinary individuals.",nonbinary
+Ahmed Khan,"Elena Garcia and Ahmed Khan highlighted the importance of cultural diversity.",unknown
+Olivia Brown,"Olivia Brown presented innovative solutions for sustainable living at the environmental summit.",unknown
+Jamie Edwards,"Kai Patel, who identifies as nonbinary, and Jamie Edwards spoke about their journey in the arts.",unknown
+Clara Fernandez,"Clara Fernandez and Olivia Lewis shared their experiences as chefs, and she provided tips for aspiring cooks.",female
+Jordan White,"Jordan White and Riley Barrett shared their thoughts on recent policy changes. They advocated for more representation.",unknown
+Casey Sharma,"Casey Sharma, a enby author, talked about the significance of gender-neutral language.",nonbinary
+Riley Brown,"Riley Brown and Taylor Collins highlighted the challenges faced by nonbinary individuals. They called for more support.",unknown
+Carla Mendes,"Carla Mendes and Isabella Clark talked about their latest project, and she discussed the challenges faced by the team.",female
+Arjun Mehta,"Arjun Mehta shared insights on the future of artificial intelligence at the tech conference.",unknown
+Gabriel Fernandez,"Gabriel Fernandez and Aisha Rahman presented their research on healthcare innovation.",unknown
+Chris Lee,"Chris Lee, a nonbinary advocate, emphasized the need for inclusive policies.",nonbinary
+John Smith,"John Smith, a renowned chef, shared culinary secrets at the international food festival.",unknown
+Hannah Singh,"Hannah Singh released her latest album to critical acclaim, solidifying her reputation as a female musician.",binary
+Dmitry Ivanov,"Dmitry Ivanov and Thomas Martinez talked about their new film, and he shared insights from the production process.",male
+Arjun Gupta,"Arjun discussed his role in the film industry, and she highlighted the importance of representation.",unknown
+Logan Verma,"Logan Verma, a nonbinary leader, and Casey Parker chaired the committee on social justice.",nonbinary
+Drew Collins,"Drew Collins, who is male, shared his insights on the stock market.",binary
+Taylor Parker,"Taylor Parker, a female journalist, reported live from the scene of the protest.",binary
